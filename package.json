@@ -1,0 +1,19 @@
+{
+  "name": "eeserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ApsXpert/eeserver.git"
+  },
+  "author": "Atif Shahzad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ApsXpert/eeserver/issues"
+  },
+  "homepage": "https://github.com/ApsXpert/eeserver#readme"
+}
